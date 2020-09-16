@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/nandalopes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://nandalopes.dev
+  * I am nandalopes (https://keybase.io/nandalopes) on keybase.
+  * I have a public key ASDsLGSz1NBLT36NZZKEh1yOEveohUbaJPYjRYgxMyuv6Ao
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d141bdef059c847d8913ed79c6ab61fc2730afbb084ab42bac81ab3cb900ba280a",
+      "host": "keybase.io",
+      "kid": "0120ec2c64b3d4d04b4f7e8d659284875c8e12f7a88546da24f623458831332bafe80a",
+      "uid": "76ebec4cebb5acbf32314d932d424c19",
+      "username": "nandalopes"
+    },
+    "merkle_root": {
+      "ctime": 1600219090,
+      "hash": "58c72e71a4b518ad6d97412d742ed1dbb238bf665744ff2a382280c34d860d72bd2adf7aeda0ee75f88ca59974c080103be0fe39ddad15d4d29f3f5a01535b20",
+      "hash_meta": "89648003f0fee0df60a38d671cff57257b6aa208df1b827e2bb87127de95f6ce",
+      "seqno": 17579890
+    },
+    "service": {
+      "entropy": "fVdcW3XYZ7Jq3duRPBg+W1mi",
+      "hostname": "nandalopes.dev",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.5.1"
+  },
+  "ctime": 1600222214,
+  "expire_in": 504576000,
+  "prev": "61cb02087a7d5b6f1817020857255abb4ad8c0307db6d612956c1f373e03ff10",
+  "seqno": 45,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg7Cxks9TQS09+jWWShIdcjhL3qIVG2iT2I0WIMTMrr+gKp3BheWxvYWTESpcCLcQgYcsCCHp9W28YFwIIVyVau0rYwDB9ttYSlWwfNz4D/xDEIBFl48q/cYVcP9A62yr9ptTp8cs/vz+lB42ODuVg0o4JAgHCo3NpZ8RARE0nj53QITdTl/koJnfET60XP4kQHatZ6VL5nTzSDUCCqinLnpy7Y2Mr0ESdepmzAb/u9rvE1vhCdANRT6BOBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIECcTvwMxDNgKfFtMBO7zUsPw0OD4uLmDVlyqj96vCxVo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nandalopes
+
+==================================================================
